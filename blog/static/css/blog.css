@@ -1,0 +1,72 @@
+.page-header {
+    background-color: #941a26;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #c8d9d3;
+    font-size: 37pt;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Arial Bolt', cursive;
+}
+
+.date {
+    color: #a09aed;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #70bef3;
+    float: right;
+    font-size: 30pt;
+    margin-right: 25px;
+    
+}
+
+.post {
+    margin-bottom: 120px;
+}
+
+.post h1 a, .post h1 a:visited {
+    color: rgb(219, 230, 225);
+    margin-right: 13px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: box-shadow .5s;
+    font-weight: bold;
+    border: 1px solid orange;
+    
+
+    
+
+    
+}
+body{
+    background-image: url(https://tidbits.com/uploads/2019/05/black-background-costume-dark-mode.jpg);
+    background-size: 50%;
+}
+
+p{
+    color: #cacad2;
+    font-size: 15pt;
+    font-family: 'Arial Bolt', fantasy;
+    border: 2px solid orange;
+}
+
